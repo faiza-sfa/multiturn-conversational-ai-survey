@@ -1,10 +1,8 @@
 # Multi-turn Conversational AI: From Text to Multimodal Interaction
 
-[![Paper](https://img.shields.io/badge/Paper-EMNLP%202026-blue)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/multiturn-survey/pulls)
+
 
 > **"Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges"**  
-> *Anonymous ACL submission (EMNLP 2026)*
 
 This repository is the companion resource for our survey paper. It lists all papers covered across **datasets, benchmarks, models, training strategies, and evaluation frameworks** for multi-turn conversational AI, organized by the same structure as the paper.
 
@@ -384,13 +382,7 @@ See **Table 7** in the paper for a full breakdown. Key frameworks:
 If you find this survey useful, please cite:
 
 ```bibtex
-@article{anonymous2026multiturn,
-  title     = {Multi-turn Conversational AI from Text to Multimodal Interaction:
-               Data, Models, Evaluation, and Open Challenges},
-  author    = {Anonymous},
-  year      = {2026},
-  note      = {EMNLP 2026 submission}
-}
+
 ```
 
 *(Will be updated with full citation upon acceptance.)*
