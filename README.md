@@ -46,17 +46,17 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Dataset | Paper | Venue | Year |
 |---------|-------|-------|------|
 | **LongMemEval** | [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://openreview.net/forum?id=pZiyCaVuti) | ICLR | 2025 |
-| **MultiChallenge** | [MultiChallenge: A Realistic Multi-Turn Evaluation Benchmark](https://aclanthology.org/2025.findings-acl.1064/) | ACL-F | 2025 |
+| **MultiChallenge** | [MultiChallenge: A Realistic Multi-Turn Evaluation Benchmark](https://aclanthology.org/2025.findings-acl.958/) | ACL-F | 2025 |
 | **τ-Bench** | [τ-Bench: A Benchmark for Tool-Agent-User Interaction](https://openreview.net/forum?id=roNSXZpUDN) | ICLR | 2025 |
 | **PersonaMem** | [Know Me, Respond to Me](https://openreview.net/forum?id=6ox8XZGOqP) | COLM | 2025 |
-| **ConsistentChat** | [ConsistentChat: Skeleton-Guided Consistent Multi-Turn Dialogues](https://aclanthology.org/2025.emnlp-main.502/) | EMNLP | 2025 |
-| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis](https://aclanthology.org/2025.sigdial-1.58/) | SIGDIAL | 2025 |
+| **ConsistentChat** | [ConsistentChat: Skeleton-Guided Consistent Multi-Turn Dialogues](https://aclanthology.org/2025.emnlp-main.424.pdf) | EMNLP | 2025 |
+| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis]([https://aclanthology.org/2025.sigdial-1.58/](https://aclanthology.org/2025.sigdial-1.53.pdf)) | SIGDIAL | 2025 |
 | **ToolWOZ** | [Sparse Rewards Can Self-Train Dialogue Agents](https://aclanthology.org/2025.findings-acl.1302/) | ACL-F | 2025 |
 | **WildChat** | [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://openreview.net/forum?id=Bl8u7ZRlbM) | ICLR | 2024 |
-| **MT-Bench-101** | [MT-Bench-101: Fine-Grained Benchmark](https://aclanthology.org/2024.acl-long.418/) | ACL | 2024 |
+| **MT-Bench-101** | [MT-Bench-101: Fine-Grained Benchmark](https://aclanthology.org/2024.acl-long.401/) | ACL | 2024 |
 | **MT-Eval** | [MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark](https://aclanthology.org/2024.emnlp-main.1124/) | EMNLP | 2024 |
-| **PRODIGy** | [PRODIGy: A Profile-Based Dialogue Generation Dataset](https://aclanthology.org/2024.findings-naacl.224/) | NAACL-F | 2024 |
-| **LMSYS-Chat-1M** | [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://openreview.net/forum?id=BOfDKX0wU4) | ICLR | 2024 |
+| **PRODIGy** | [PRODIGy: A Profile-Based Dialogue Generation Dataset](https://aclanthology.org/2024.findings-naacl.222/) | NAACL-F | 2024 |
+| **LMSYS-Chat-1M** | [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://openreview.net/forum?id=BOfDKxfwt0) | ICLR | 2024 |
 | **SOTOPIA** | [SOTOPIA: Interactive Evaluation for Social Intelligence](https://openreview.net/forum?id=mM7VurbA4r) | ICLR | 2024 |
 | **DialSim** | [DialSim: A Real-Time Simulator for Long-Term Dialogue Understanding](https://arxiv.org/abs/2406.13144) | arXiv | 2024 |
 | **PIPPA** | [PIPPA: A Partially Synthetic Conversational Dataset](https://arxiv.org/abs/2308.05884) | arXiv | 2023 |
@@ -73,8 +73,8 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **MENASpeechBank** | [MENASpeechBank: A Reference Voice Bank for AudioLLMs](https://arxiv.org/abs/2602.07036) | arXiv | 2026 |
 | **DeepDialogue** | [DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset](https://arxiv.org/abs/2505.19978) | arXiv | 2025 |
 | **Audio MultiChallenge** | [Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems](https://arxiv.org/abs/2512.14865) | arXiv | 2025 |
-| **C3** | [C3: A Bilingual Benchmark for Spoken Dialogue Models](https://aclanthology.org/2025.emnlp-main.1287/) | EMNLP | 2025 |
-| **ASK-QA** | [Data-Centric Improvements for Multi-Modal Understanding in Spoken Conversation](https://aclanthology.org/2025.findings-acl.83/) | ACL-F | 2025 |
+| **C3** | [C3: A Bilingual Benchmark for Spoken Dialogue Models](https://arxiv.org/abs/2507.22968) | EMNLP | 2025 |
+| **ASK-QA** | [Data-Centric Improvements for Multi-Modal Understanding in Spoken Conversation](https://aclanthology.org/2025.findings-acl.71/) | ACL-F | 2025 |
 | **MULTI-Bench** | [Multi-Bench: A Multi-Turn Interactive Benchmark for Emotional Intelligence](https://arxiv.org/abs/2511.00850) | arXiv | 2025 |
 | **MSIB** | [InteractiveOmni: Unified Omni-Modal Model for Audio-Visual Multi-Turn Dialogue](https://arxiv.org/abs/2510.13747) | arXiv | 2025 |
 | **SpokenWOZ** | [SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken TOD](https://arxiv.org/abs/2305.13040) | NeurIPS | 2023 |
@@ -85,16 +85,16 @@ This repository is the companion resource for our survey paper. It lists all pap
 |---------|-------|-------|------|
 | **MEM-Gallery** | [MEM-Gallery: Benchmarking Multimodal Long-Term Conversational Memory](https://arxiv.org/abs/2601.03515) | arXiv | 2026 |
 | **TMDialog** | [ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal Conversations](https://arxiv.org/abs/2505.23121) | arXiv | 2025 |
-| **CB-300K** | [Chatterbox: Multimodal Referring and Grounding with Chain-of-Questions](https://arxiv.org/abs/2401.09505) | AAAI | 2025 |
-| **MMDiag** | [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://aclanthology.org/2025.emnlp-main.1921/) | EMNLP | 2025 |
+| **CB-300K** | [Chatterbox: Multimodal Referring and Grounding with Chain-of-Questions](https://arxiv.org/abs/2401.13307) | AAAI | 2025 |
+| **MMDiag** | [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://aclanthology.org/2025.emnlp-main.1690/) | EMNLP | 2025 |
 | **MultiVerse** | [MultiVerse: A Multi-Turn Conversation Benchmark for LVLMs](https://arxiv.org/abs/2407.09709) | ICCV | 2025 |
-| **MMRC** | [MMRC: A Large-Scale Benchmark for Understanding MLLM in Real-World Conversation](https://aclanthology.org/2025.acl-long.1232/) | ACL | 2025 |
-| **AlignMMBench** | [AlignMMBench: Evaluating Chinese Multimodal Alignment](https://aclanthology.org/2025.acl-long.361/) | ACL | 2025 |
+| **MMRC** | [MMRC: A Large-Scale Benchmark for Understanding MLLM in Real-World Conversation](https://aclanthology.org/2025.acl-long.1096/) | ACL | 2025 |
+| **AlignMMBench** | [AlignMMBench: Evaluating Chinese Multimodal Alignment](https://arxiv.org/abs/2406.09295) | ACL | 2025 |
 | **MMMB** | [InteractiveOmni: Unified Omni-Modal Model for Audio-Visual Multi-Turn Dialogue](https://arxiv.org/abs/2510.13747) | arXiv | 2025 |
-| **DialogBen** | [DialogGen: Multi-Modal Interactive Dialogue System](https://aclanthology.org/2025.findings-naacl.27/) | NAACL-F | 2025 |
+| **DialogBen** | [DialogGen: Multi-Modal Interactive Dialogue System](https://aclanthology.org/2025.findings-naacl.25/) | NAACL-F | 2025 |
 | **IMAD** | [IMAD: Image-Augmented Multi-Modal Dialogue](https://arxiv.org/abs/2305.10512) | arXiv | 2024 |
-| **DialogCC** | [DialogCC: An Automated Pipeline for High-Quality Multi-Modal Dialogue](https://aclanthology.org/2024.naacl-long.106/) | NAACL | 2024 |
-| **LoCoMo** | [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://aclanthology.org/2024.acl-long.751/) | ACL | 2024 |
+| **DialogCC** | [DialogCC: An Automated Pipeline for High-Quality Multi-Modal Dialogue](https://aclanthology.org/2024.naacl-long.108.pdf) | NAACL | 2024 |
+| **LoCoMo** | [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://aclanthology.org/2024.acl-long.747.pdf) | ACL | 2024 |
 | **MMDU-45K** | [MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark](https://arxiv.org/abs/2406.11833) | NeurIPS | 2024 |
 | **ConvBench** | [ConvBench: A Multi-Turn Conversation Evaluation Benchmark](https://arxiv.org/abs/2403.20194) | NeurIPS | 2024 |
 | **MMMT-IF** | [MMMT-IF: A Challenging Multimodal Multi-Turn Instruction Following Benchmark](https://arxiv.org/abs/2409.18216) | arXiv | 2024 |
@@ -108,20 +108,20 @@ This repository is the companion resource for our survey paper. It lists all pap
 |---------|-------|-------|------|
 | **CogStream** | [CogStream: Context-Guided Streaming Video Question Answering](https://arxiv.org/abs/2506.10516) | AAAI | 2026 |
 | **MT-Video-Bench** | [MT-Video-Bench: A Holistic Video Understanding Benchmark](https://arxiv.org/abs/2510.17722) | arXiv | 2025 |
-| **OmniMMI** | [OmniMMI: A Comprehensive Multi-Modal Interaction Benchmark](https://arxiv.org/abs/2503.05892) | CVPR | 2025 |
-| **SCVBench** | [SCVBench: A Benchmark with Multi-Turn Dialogues for Story-Centric Video Understanding](https://arxiv.org/abs/2409.12638) | IJCAI | 2025 |
-| **SVBench** | [SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding](https://arxiv.org/abs/2411.04256) | ICLR | 2025 |
-| **IVCR-200K** | [IVCR-200k: A Large-Scale Benchmark for Interactive Video Corpus Retrieval](https://arxiv.org/abs/2411.14995) | arXiv | 2024 |
+| **OmniMMI** | [OmniMMI: A Comprehensive Multi-Modal Interaction Benchmark](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.pdf) | CVPR | 2025 |
+| **SCVBench** | [SCVBench: A Benchmark with Multi-Turn Dialogues for Story-Centric Video Understanding](https://www.ijcai.org/proceedings/2025/0255.pdf) | IJCAI | 2025 |
+| **SVBench** | [SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding](https://arxiv.org/abs/2502.10810) | ICLR | 2025 |
+| **IVCR-200K** | [IVCR-200k: A Large-Scale Benchmark for Interactive Video Corpus Retrieval](https://openreview.net/forum?id=Dojny642Dy&referrer=%5Bthe%20profile%20of%20Dun%20Tan%5D(%2Fprofile%3Fid%3D~Dun_Tan1) | arXiv | 2024 |
 
 ### Cultural & Linguistic
 
 | Dataset | Paper | Venue | Year | MT? |
 |---------|-------|-------|------|-----|
-| **MMA-ASIA** ⋆ | [MMA-ASIA: A Multilingual and Multimodal Alignment Framework](https://arxiv.org/abs/2502.12560) | arXiv | 2025 | Single-turn |
+| **MMA-ASIA** ⋆ | [MMA-ASIA: A Multilingual and Multimodal Alignment Framework](https://openreview.net/forum?id=iYVh7UKmfn) | arXiv | 2025 | Single-turn |
 | **OASIS** ⋆ | [EverydayMMQA: A Multilingual and Multimodal Framework for Culturally Grounded Spoken Visual QA](https://arxiv.org/abs/2510.06371) | arXiv | 2025 | Single-turn |
-| **Shawarma Chats** | [Shawarma Chats: A Benchmark in Egyptian, Maghrebi & MSA Arabic](https://aclanthology.org/2025.arabicnlp-1.41/) | ArabicNLP | 2025 | Multi-turn |
+| **Shawarma Chats** | [Shawarma Chats: A Benchmark in Egyptian, Maghrebi & MSA Arabic](https://aclanthology.org/2025.arabicnlp-main.39/) | ArabicNLP | 2025 | Multi-turn |
 | **CVQA** ⋆ | [CVQA: Culturally-Diverse Multilingual VQA Benchmark](https://arxiv.org/abs/2406.05967) | NeurIPS | 2024 | Single-turn |
-| **Dallah** ⋆ | [Dallah: A Dialect-Aware Multimodal LLM for Arabic](https://aclanthology.org/2024.arabicnlp-1.29/) | ACL-ArabicNLP | 2024 | Single-turn |
+| **Dallah** ⋆ | [Dallah: A Dialect-Aware Multimodal LLM for Arabic](https://aclanthology.org/2024.arabicnlp-1.27/) | ACL-ArabicNLP | 2024 | Single-turn |
 
 > ⋆ = single-turn; included as cultural/cross-lingual baselines.
 
@@ -134,9 +134,9 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Benchmark | Paper | Venue | Year |
 |-----------|-------|-------|------|
 | **TurnWise** | [TurnWise: The Gap Between Single- and Multi-Turn LM Capabilities](https://arxiv.org/abs/2603.16759) | arXiv | 2026 |
-| **MultiChallenge** | [MultiChallenge: A Realistic Multi-Turn Evaluation Benchmark](https://aclanthology.org/2025.findings-acl.1064/) | ACL-F | 2025 |
-| **IHEval** | [IHEval: Evaluating LMs on Following the Instruction Hierarchy](https://aclanthology.org/2025.naacl-long.482/) | NAACL | 2025 |
-| **TOD-ProcBench** | [TOD-ProcBench: Benchmarking Complex Instruction-Following in TOD](https://arxiv.org/abs/2503.07742) | NeurIPS-W | 2025 |
+| **MultiChallenge** | [MultiChallenge: A Realistic Multi-Turn Evaluation Benchmark](https://aclanthology.org/2025.findings-acl.958/) | ACL-F | 2025 |
+| **IHEval** | [IHEval: Evaluating LMs on Following the Instruction Hierarchy](https://arxiv.org/abs/2502.08745) | NAACL | 2025 |
+| **TOD-ProcBench** | [TOD-ProcBench: Benchmarking Complex Instruction-Following in TOD](https://assets.amazon.science/db/5a/053b8cb943c2929de3639ab24055/recsys2025-workshops-paper-212-camera-ready-1.pdf) | NeurIPS-W | 2025 |
 | **EvolIF** | [One Battle After Another: Probing LLMs' Limits on Multi-Turn Instruction Following](https://arxiv.org/abs/2511.03508) | arXiv | 2025 |
 | **τ-Bench** | [τ-Bench: A Benchmark for Tool-Agent-User Interaction](https://openreview.net/forum?id=roNSXZpUDN) | ICLR | 2025 |
 | **StructFlowBench** | [StructFlowBench: A Structured Flow Benchmark for Multi-Turn Instruction Following](https://aclanthology.org/2025.findings-acl.545/) | ACL-F | 2025 |
