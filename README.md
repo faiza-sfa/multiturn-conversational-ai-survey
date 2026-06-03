@@ -1,6 +1,8 @@
 # Multi-turn Conversational AI: From Text to Multimodal Interaction
 
-
+<p align="center">
+  <img src="three-axis.png" alt="Three-axis view of conversational AI survey scope" width="750">
+</p>
 
 > **"Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges"**  
 
