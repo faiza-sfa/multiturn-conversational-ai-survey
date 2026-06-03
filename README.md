@@ -184,13 +184,13 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **CogStream** | [CogStream: Context-Guided Streaming Video QA](https://arxiv.org/abs/2506.10516) | AAAI | 2026 |
 | **Audio MultiChallenge** | [Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems](https://arxiv.org/abs/2512.14865) | arXiv | 2025 |
 | **MT-Video-Bench** | [MT-Video-Bench: A Holistic Video Understanding Benchmark](https://arxiv.org/abs/2510.17722) | arXiv | 2025 |
-| **OmniMMI** | [OmniMMI: A Comprehensive Multi-Modal Interaction Benchmark in Streaming Video](https://arxiv.org/abs/2503.05892) | CVPR | 2025 |
+| **OmniMMI** | [OmniMMI: A Comprehensive Multi-Modal Interaction Benchmark in Streaming Video](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.pdf) | CVPR | 2025 |
 | **SCVBench** | [SCVBench: A Benchmark with Multi-Turn Dialogues for Story-Centric Video Understanding](https://arxiv.org/abs/2409.12638) | IJCAI | 2025 |
 | **AVHBench** | [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual LLMs](https://openreview.net/forum?id=jTEKTdI3K9) | ICLR | 2025 |
 | **MTalk-Bench** | [MTalk-Bench: Evaluating Speech-to-Speech Models in Multi-Turn Dialogues](https://arxiv.org/abs/2508.18240) | arXiv | 2025 |
 | **FD-Bench** | [FD-Bench: A Full-Duplex Benchmarking Pipeline for Full-Duplex Spoken Dialogue Systems](https://arxiv.org/abs/2507.19040) | Interspeech | 2025 |
 | **MULTI-Bench** | [Multi-Bench: A Multi-Turn Interactive Benchmark for Emotional Intelligence](https://arxiv.org/abs/2511.00850) | arXiv | 2025 |
-| **SVBench** | [SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video](https://arxiv.org/abs/2411.04256) | ICLR | 2025 |
+| **SVBench** | [SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video](https://arxiv.org/abs/2502.10810) | ICLR | 2025 |
 | **MSIB** | [InteractiveOmni: Unified Omni-Modal Model for Audio-Visual Multi-Turn Dialogue](https://arxiv.org/abs/2510.13747) | arXiv | 2025 |
 
 ### Robustness, Fairness & Safety
@@ -200,12 +200,12 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **Curse of Multi-Modalities** | [The Curse of Multi-Modalities: Evaluating Hallucinations](https://arxiv.org/abs/2410.12787) | NeurIPS | 2026 |
 | **Lost in Multi-Turn** | [LLMs Get Lost in Multi-Turn Conversation](https://openreview.net/forum?id=VKGTGGcwl6) | ICLR | 2026 |
 | **SafeDialBench** | [SafeDialBench: A Fine-Grained Safety Evaluation Benchmark](https://openreview.net/forum?id=KFjtRqVnKH) | ICLR | 2026 |
-| **FB-Bench** | [FB-Bench: Evaluating LLMs Responsiveness to Human Feedback](https://aclanthology.org/2025.emnlp-main.533/) | EMNLP | 2025 |
+| **FB-Bench** | [FB-Bench: Evaluating LLMs Responsiveness to Human Feedback](https://aclanthology.org/2025.emnlp-main.471/) | EMNLP | 2025 |
 | **FairMT-Bench** | [FairMT-Bench: Benchmarking Fairness for Multi-Turn Dialogue](https://openreview.net/forum?id=RSGoXnS9GH) | ICLR | 2025 |
-| **SYCON-Bench** | [Measuring Sycophancy of LMs in Multi-Turn Dialogues](https://aclanthology.org/2025.findings-emnlp.131/) | EMNLP-F | 2025 |
+| **SYCON-Bench** | [Measuring Sycophancy of LMs in Multi-Turn Dialogues](https://aclanthology.org/2025.findings-emnlp.121/) | EMNLP-F | 2025 |
 | **X-Teaming** | [X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents](https://arxiv.org/abs/2504.13203) | arXiv | 2025 |
 | **Crescendo** | [The Crescendo Multi-Turn LLM Jailbreak Attack](https://www.usenix.org/conference/usenixsecurity25/presentation/russinovich) | USENIX Security | 2025 |
-| **DiaHalu** | [DiaHalu: A Dialogue-Level Hallucination Evaluation Benchmark](https://aclanthology.org/2024.findings-emnlp.531/) | EMNLP-F | 2024 |
+| **DiaHalu** | [DiaHalu: A Dialogue-Level Hallucination Evaluation Benchmark](https://aclanthology.org/2024.findings-emnlp.529/) | EMNLP-F | 2024 |
 
 ---
 
