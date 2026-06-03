@@ -50,7 +50,7 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **τ-Bench** | [τ-Bench: A Benchmark for Tool-Agent-User Interaction](https://openreview.net/forum?id=roNSXZpUDN) | ICLR | 2025 |
 | **PersonaMem** | [Know Me, Respond to Me](https://openreview.net/forum?id=6ox8XZGOqP) | COLM | 2025 |
 | **ConsistentChat** | [ConsistentChat: Skeleton-Guided Consistent Multi-Turn Dialogues](https://aclanthology.org/2025.emnlp-main.424.pdf) | EMNLP | 2025 |
-| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis]([https://aclanthology.org/2025.sigdial-1.58/](https://aclanthology.org/2025.sigdial-1.53.pdf)) | SIGDIAL | 2025 |
+| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis](https://aclanthology.org/2025.sigdial-1.53.pdf) | SIGDIAL | 2025 |
 | **ToolWOZ** | [Sparse Rewards Can Self-Train Dialogue Agents](https://aclanthology.org/2025.findings-acl.1302/) | ACL-F | 2025 |
 | **WildChat** | [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://openreview.net/forum?id=Bl8u7ZRlbM) | ICLR | 2024 |
 | **MT-Bench-101** | [MT-Bench-101: Fine-Grained Benchmark](https://aclanthology.org/2024.acl-long.401/) | ACL | 2024 |
@@ -139,15 +139,15 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **TOD-ProcBench** | [TOD-ProcBench: Benchmarking Complex Instruction-Following in TOD](https://assets.amazon.science/db/5a/053b8cb943c2929de3639ab24055/recsys2025-workshops-paper-212-camera-ready-1.pdf) | NeurIPS-W | 2025 |
 | **EvolIF** | [One Battle After Another: Probing LLMs' Limits on Multi-Turn Instruction Following](https://arxiv.org/abs/2511.03508) | arXiv | 2025 |
 | **τ-Bench** | [τ-Bench: A Benchmark for Tool-Agent-User Interaction](https://openreview.net/forum?id=roNSXZpUDN) | ICLR | 2025 |
-| **StructFlowBench** | [StructFlowBench: A Structured Flow Benchmark for Multi-Turn Instruction Following](https://aclanthology.org/2025.findings-acl.545/) | ACL-F | 2025 |
+| **StructFlowBench** | [StructFlowBench: A Structured Flow Benchmark for Multi-Turn Instruction Following](https://aclanthology.org/2025.findings-acl.486.pdf) | ACL-F | 2025 |
 | **PersonaMem** | [Know Me, Respond to Me](https://openreview.net/forum?id=6ox8XZGOqP) | COLM | 2025 |
-| **CORAL** | [CORAL: Benchmarking Multi-Turn Conversational RAG](https://aclanthology.org/2025.findings-naacl.84/) | NAACL-F | 2025 |
-| **ToolSandbox** | [ToolSandbox: A Stateful, Conversational Evaluation for LLM Tool Use](https://aclanthology.org/2025.findings-naacl.75/) | NAACL-F | 2025 |
-| **TurnBench-MS** | [TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning](https://aclanthology.org/2025.findings-emnlp.1136/) | EMNLP-F | 2025 |
+| **CORAL** | [CORAL: Benchmarking Multi-Turn Conversational RAG](https://aclanthology.org/2025.findings-naacl.72/) | NAACL-F | 2025 |
+| **ToolSandbox** | [ToolSandbox: A Stateful, Conversational Evaluation for LLM Tool Use](https://aclanthology.org/2025.findings-naacl.65.pdf) | NAACL-F | 2025 |
+| **TurnBench-MS** | [TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning](https://aclanthology.org/2025.findings-emnlp.1084/) | EMNLP-F | 2025 |
 | **MemoryAgentBench** | [Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257) | ICML-W | 2025 |
-| **MT-Bench-101** | [MT-Bench-101: Fine-Grained Benchmark for Multi-Turn Dialogues](https://aclanthology.org/2024.acl-long.418/) | ACL | 2024 |
+| **MT-Bench-101** | [MT-Bench-101: Fine-Grained Benchmark for Multi-Turn Dialogues](https://aclanthology.org/2024.acl-long.401/) | ACL | 2024 |
 | **MT-Eval** | [MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark](https://aclanthology.org/2024.emnlp-main.1124/) | EMNLP | 2024 |
-| **Parrot-Bench** | [Parrot: Enhancing Multi-Turn Instruction Following for LLMs](https://aclanthology.org/2024.acl-long.539/) | ACL | 2024 |
+| **Parrot-Bench** | [Parrot: Enhancing Multi-Turn Instruction Following for LLMs](https://aclanthology.org/2024.acl-long.525/) | ACL | 2024 |
 | **MINT** | [MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback](https://openreview.net/forum?id=jp3gWrMuIZ) | ICLR | 2024 |
 | **SOTOPIA** | [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://openreview.net/forum?id=mM7VurbA4r) | ICLR | 2024 |
 | **AgentBoard** | [AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents](https://arxiv.org/abs/2401.13178) | NeurIPS | 2024 |
@@ -157,12 +157,12 @@ This repository is the companion resource for our survey paper. It lists all pap
 
 | Benchmark | Paper | Venue | Year |
 |-----------|-------|-------|------|
-| **M2Lingual** | [M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment](https://aclanthology.org/2025.naacl-long.560/) | NAACL | 2025 |
-| **CMT-Eval** | [CMT-Eval: A Novel Chinese Multi-Turn Dialogue Evaluation Dataset](https://aclanthology.org/2025.findings-emnlp.1040/) | EMNLP-F | 2025 |
-| **AlignMMBench** | [AlignMMBench: Evaluating Chinese Multimodal Alignment](https://aclanthology.org/2025.acl-long.361/) | ACL | 2025 |
-| **MT-Bench-Hi** | [Benchmarking Hindi LLMs](https://aclanthology.org/2025.bhasha-1.6/) | ACL-W | 2025 |
-| **cuDialog** | [Bridging Cultural Nuances in Dialogue Agents](https://aclanthology.org/2024.findings-eacl.60/) | EACL-F | 2024 |
-| **IndoToD** | [IndoToD: A Multi-Domain Indonesian Benchmark for End-to-End TOD](https://aclanthology.org/2023.sealp-1.9/) | SEALP | 2023 |
+| **M2Lingual** | [M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment](https://aclanthology.org/2025.naacl-long.489/) | NAACL | 2025 |
+| **CMT-Eval** | [CMT-Eval: A Novel Chinese Multi-Turn Dialogue Evaluation Dataset](https://aclanthology.org/2025.findings-emnlp.992/) | EMNLP-F | 2025 |
+| **AlignMMBench** | [AlignMMBench: Evaluating Chinese Multimodal Alignment](https://arxiv.org/abs/2406.09295) | ACL | 2025 |
+| **MT-Bench-Hi** | [Benchmarking Hindi LLMs](https://aclanthology.org/2025.bhasha-1.5/) | ACL-W | 2025 |
+| **cuDialog** | [Bridging Cultural Nuances in Dialogue Agents](https://aclanthology.org/2024.findings-eacl.63/) | EACL-F | 2024 |
+| **IndoToD** | [IndoToD: A Multi-Domain Indonesian Benchmark for End-to-End TOD](https://aclanthology.org/2023.sealp-1.7/) | SEALP | 2023 |
 
 ### Multimodal Benchmarks
 
@@ -170,7 +170,7 @@ This repository is the companion resource for our survey paper. It lists all pap
 |-----------|-------|-------|------|
 | **MEM-Gallery** | [MEM-Gallery: Benchmarking Multimodal Long-Term Conversational Memory](https://arxiv.org/abs/2601.03515) | arXiv | 2026 |
 | **MMCR** | [MMCR: Advancing VLM in Multimodal Multi-Turn Contextual Reasoning](https://arxiv.org/abs/2503.18533) | arXiv | 2025 |
-| **MMRC** | [MMRC: A Large-Scale Benchmark for Understanding MLLM in Real-World Conversation](https://aclanthology.org/2025.acl-long.1232/) | ACL | 2025 |
+| **MMRC** | [MMRC: A Large-Scale Benchmark for Understanding MLLM in Real-World Conversation](https://aclanthology.org/2025.acl-long.1096/) | ACL | 2025 |
 | **MultiVerse** | [MultiVerse: A Multi-Turn Conversation Benchmark for LVLMs](https://arxiv.org/abs/2407.09709) | ICCV | 2025 |
 | **MMMB** | [InteractiveOmni: Unified Omni-Modal Model for Audio-Visual Multi-Turn Dialogue](https://arxiv.org/abs/2510.13747) | arXiv | 2025 |
 | **ConvBench** | [ConvBench: A Multi-Turn Conversation Evaluation Benchmark for LVLMs](https://arxiv.org/abs/2403.20194) | NeurIPS | 2024 |
