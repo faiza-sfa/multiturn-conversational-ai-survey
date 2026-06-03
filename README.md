@@ -389,6 +389,6 @@ If you find this survey useful, please cite:
 
 ---
 
-> 💡 **Found a broken or missing link?** Open an [Issue](https://github.com/faiza-sfa/multiturn-survey/issues) and we'll fix it.
+> 💡 **Found a broken or missing link?** Open an [Issue](https://github.com/faiza-sfa/multiturn-conversational-ai-survey/issues/new) and we'll fix it.
 
 ---
