@@ -227,8 +227,8 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Model | Paper | Venue | Year |
 |-------|-------|-------|------|
 | **COMEDY** | [Compress to Impress: Unleashing Compressive Memory in Long-Term Conversations](https://aclanthology.org/2025.coling-main.51/) | COLING | 2025 |
-| **UniConv** | [UniConv: Unifying Retrieval and Response Generation for LLMs in Conversations](https://aclanthology.org/2025.acl-long.396/) | ACL | 2025 |
-| **FnCTOD** | [LLMs as Zero-Shot Dialogue State Tracker through Function Calling](https://aclanthology.org/2024.acl-long.470/) | ACL | 2024 |
+| **UniConv** | [UniConv: Unifying Retrieval and Response Generation for LLMs in Conversations](https://aclanthology.org/2025.acl-long.344.pdf) | ACL | 2025 |
+| **FnCTOD** | [LLMs as Zero-Shot Dialogue State Tracker through Function Calling](https://aclanthology.org/2024.acl-long.471.pdf) | ACL | 2024 |
 | **ChatQA** | [ChatQA: Surpassing GPT-4 on Conversational QA and RAG](https://arxiv.org/abs/2401.10225) | NeurIPS | 2024 |
 | **InstructGPT** | [Training LMs to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155) | NeurIPS | 2022 |
 
@@ -236,7 +236,7 @@ This repository is the companion resource for our survey paper. It lists all pap
 
 | Model | Paper | Venue | Year |
 |-------|-------|-------|------|
-| **MemBART** | [Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling](https://aclanthology.org/2024.findings-eacl.55/) | EACL-F | 2024 |
+| **MemBART** | [Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling](https://aclanthology.org/2024.findings-eacl.57.pdf) | EACL-F | 2024 |
 | **CCM** | [Compressed Context Memory for Online LM Interaction](https://openreview.net/forum?id=64kSvC4iPg) | ICLR | 2024 |
 | **RWKV** | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-F | 2023 |
 | **RMT** | [Recurrent Memory Transformer](https://arxiv.org/abs/2207.06881) | NeurIPS | 2022 |
@@ -248,9 +248,9 @@ This repository is the companion resource for our survey paper. It lists all pap
 |-------|-------|-------|------|-------------|
 | **Freeze-Omni** | [Freeze-Omni: A Smart and Low-Latency Speech-to-Speech Dialogue Model](https://arxiv.org/abs/2411.00774) | ICML | 2025 | ✓ |
 | **MinMo** | [MinMo: A Multimodal LLM for Seamless Voice Interaction](https://arxiv.org/abs/2501.06282) | arXiv | 2025 | ✓ |
-| **LLaMA-Omni 2** | [LLaMA-Omni 2: LLM-Based Real-Time Spoken Chatbot with Autoregressive Streaming Speech Synthesis](https://aclanthology.org/2025.acl-long.452/) | ACL | 2025 | ✓ |
-| **SpiRit-LM** | [SpiRit-LM: Interleaved Spoken and Written Language Model](https://aclanthology.org/2025.tacl-1.3/) | TACL | 2025 | ✗ |
-| **SLAM-Omni** | [SLAM-Omni: Timbre-Controllable Voice Interaction System](https://aclanthology.org/2025.findings-acl.136/) | ACL-F | 2025 | ✓ |
+| **LLaMA-Omni 2** | [LLaMA-Omni 2: LLM-Based Real-Time Spoken Chatbot with Autoregressive Streaming Speech Synthesis](https://aclanthology.org/2025.acl-long.912.pdf) | ACL | 2025 | ✓ |
+| **SpiRit-LM** | [SpiRit-LM: Interleaved Spoken and Written Language Model](https://aclanthology.org/2025.tacl-1.2/) | TACL | 2025 | ✗ |
+| **SLAM-Omni** | [SLAM-Omni: Timbre-Controllable Voice Interaction System](https://aclanthology.org/2025.findings-acl.115.pdf) | ACL-F | 2025 | ✓ |
 | **SALMONN** | [SALMONN: Towards Generic Hearing Abilities for Large LMs](https://openreview.net/forum?id=14rn7HpKVk) | ICLR | 2024 | ✗ |
 | **Qwen2-Audio** | [Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759) | arXiv | 2024 | ✗ |
 | **Moshi** | [Moshi: A Speech-Text Foundation Model for Real-Time Dialogue](https://arxiv.org/abs/2410.00037) | arXiv | 2024 | ✓ |
@@ -259,7 +259,7 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **SpeechGPT** | [SpeechGPT: Empowering LLMs with Intrinsic Cross-Modal Conversational Abilities](https://aclanthology.org/2023.findings-emnlp.1055/) | EMNLP-F | 2023 | ✗ |
 | **Qwen-Audio** | [Qwen-Audio: Advancing Universal Audio Understanding](https://arxiv.org/abs/2311.07919) | arXiv | 2023 | ✗ |
 | **AudioPaLM** | [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925) | arXiv | 2023 | ✗ |
-| **dGSLM** | [Generative Spoken Dialogue Language Modeling](https://aclanthology.org/2023.tacl-1.16/) | TACL | 2023 | ✗ |
+| **dGSLM** | [Generative Spoken Dialogue Language Modeling](https://aclanthology.org/2023.tacl-1.15/) | TACL | 2023 | ✗ |
 
 ### Omni-modal Models
 
@@ -271,7 +271,7 @@ This repository is the companion resource for our survey paper. It lists all pap
 | **EMOVA** | [EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions](https://arxiv.org/abs/2409.18042) | CVPR | 2025 |
 | **Stream-Omni** | [Stream-Omni: Simultaneous Multimodal Interactions](https://arxiv.org/abs/2506.13642) | arXiv | 2025 |
 | **M2-Omni** | [M2-Omni: Advancing Omni-MLLM for Comprehensive Modality Support](https://arxiv.org/abs/2502.18778) | arXiv | 2025 |
-| **MIO** | [MIO: A Foundation Model on Multimodal Tokens](https://aclanthology.org/2025.emnlp-main.305/) | EMNLP | 2025 |
+| **MIO** | [MIO: A Foundation Model on Multimodal Tokens](https://aclanthology.org/2025.emnlp-main.255/) | EMNLP | 2025 |
 | **Vision-Speech** | [Vision-Speech Models: Teaching Speech Models to Converse About Images](https://arxiv.org/abs/2503.15633) | arXiv | 2025 |
 | **GPT-4o** | [GPT-4o System Card](https://arxiv.org/abs/2410.21276) | OpenAI | 2024 |
 | **IXC2.5-OmniLive** | [InternLM-XComposer2.5-OmniLive](https://arxiv.org/abs/2412.09596) | arXiv | 2024 |
@@ -283,19 +283,19 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Model | Paper | Venue | Year |
 |-------|-------|-------|------|
 | **ContextQFormer** | [ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal Conversations](https://arxiv.org/abs/2505.23121) | arXiv | 2025 |
-| **MadaKV** | [MadaKV: Adaptive Modality-Perception KV Cache Eviction](https://aclanthology.org/2025.acl-long.726/) | ACL | 2025 |
-| **DiagNote** | [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://aclanthology.org/2025.emnlp-main.1921/) | EMNLP | 2025 |
-| **DialogGen** | [DialogGen: Multi-Modal Interactive Dialogue System with Multi-Turn Text-Image Generation](https://aclanthology.org/2025.findings-naacl.27/) | NAACL-F | 2025 |
+| **MadaKV** | [MadaKV: Adaptive Modality-Perception KV Cache Eviction](https://aclanthology.org/2025.acl-long.652/) | ACL | 2025 |
+| **DiagNote** | [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://aclanthology.org/2025.emnlp-main.1690/) | EMNLP | 2025 |
+| **DialogGen** | [DialogGen: Multi-Modal Interactive Dialogue System with Multi-Turn Text-Image Generation](https://aclanthology.org/2025.findings-naacl.25/) | NAACL-F | 2025 |
 
 ### Agentic & Tool-augmented Systems
 
 | Model | Paper | Venue | Year |
 |-------|-------|-------|------|
 | **VideoMind** | [VideoMind: A Chain-of-LoRA Agent for Temporal-Grounded Video Reasoning](https://openreview.net/forum?id=57EwidOnSf) | ICLR | 2026 |
-| **SAPIENT** | [SAPIENT: Mastering Multi-Turn Conversational Recommendation with MCTS](https://aclanthology.org/2025.naacl-long.154/) | NAACL | 2025 |
+| **SAPIENT** | [SAPIENT: Mastering Multi-Turn Conversational Recommendation with MCTS](https://aclanthology.org/2025.naacl-long.133/) | NAACL | 2025 |
 | **MetaGPT** | [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://openreview.net/forum?id=VtmBAGCN7o) | ICLR | 2024 |
-| **ToolPlanner** | [ToolPlanner: A Tool Augmented LLM for Multi-Granularity Instructions](https://aclanthology.org/2024.emnlp-main.1043/) | EMNLP | 2024 |
-| **WebLINX** | [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://proceedings.mlr.press/v235/lu24m.html) | ICML | 2024 |
+| **ToolPlanner** | [ToolPlanner: A Tool Augmented LLM for Multi-Granularity Instructions](https://aclanthology.org/2024.emnlp-main.1018.pdf) | EMNLP | 2024 |
+| **WebLINX** | [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | ICML | 2024 |
 | **ReAct** | [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR | 2023 |
 | **Reflexion** | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS | 2023 |
 | **ChatCoT** | [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning](https://aclanthology.org/2023.findings-emnlp.985/) | EMNLP-F | 2023 |
@@ -308,11 +308,11 @@ This repository is the companion resource for our survey paper. It lists all pap
 
 | Method | Paper | Venue | Year |
 |--------|-------|-------|------|
-| **ConsistentChat** | [ConsistentChat: Building Skeleton-Guided Consistent Multi-Turn Dialogues](https://aclanthology.org/2025.emnlp-main.502/) | EMNLP | 2025 |
-| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis](https://aclanthology.org/2025.sigdial-1.58/) | SIGDIAL | 2025 |
+| **ConsistentChat** | [ConsistentChat: Building Skeleton-Guided Consistent Multi-Turn Dialogues](https://aclanthology.org/2025.emnlp-main.424.pdf) | EMNLP | 2025 |
+| **DocTalk** | [DocTalk: Scalable Graph-Based Dialogue Synthesis](https://aclanthology.org/2025.sigdial-1.53.pdf)| SIGDIAL | 2025 |
 | **ChatQA-2** | [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG](https://openreview.net/forum?id=cPD2hU35x3) | ICLR | 2025 |
 | **WildChat** | [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://openreview.net/forum?id=Bl8u7ZRlbM) | ICLR | 2024 |
-| **Parrot** | [Parrot: Enhancing Multi-Turn Instruction Following for LLMs](https://aclanthology.org/2024.acl-long.539/) | ACL | 2024 |
+| **Parrot** | [Parrot: Enhancing Multi-Turn Instruction Following for LLMs](https://aclanthology.org/2024.acl-long.525/) | ACL | 2024 |
 | **Aquila-Med** | [Aquila-Med LLM: Full-Process Open-Source Medical LLM](https://arxiv.org/abs/2406.12182) | arXiv | 2024 |
 | **Zhongjing** | [Zhongjing: Enhancing Chinese Medical Capabilities](https://arxiv.org/abs/2308.03549) | AAAI | 2024 |
 | **ChatQA** | [ChatQA: Surpassing GPT-4 on Conversational QA and RAG](https://arxiv.org/abs/2401.10225) | NeurIPS | 2024 |
@@ -324,15 +324,15 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Method | Paper | Venue | Year |
 |--------|-------|-------|------|
 | **Multi-turn DPO/KTO** | [Building Math Agents with Multi-Turn Iterative Preference Learning](https://openreview.net/forum?id=WjKea8bGFF) | ICLR | 2025 |
-| **SDPO** | [SDPO: Segment-Level Direct Preference Optimization for Social Agents](https://aclanthology.org/2025.acl-long.693/) | ACL | 2025 |
-| **DiaTool-DPO** | [DiaTool-DPO: Multi-Turn DPO for Tool-Augmented LLMs](https://aclanthology.org/2025.sigdial-1.36/) | SIGDIAL | 2025 |
+| **SDPO** | [SDPO: Segment-Level Direct Preference Optimization for Social Agents](https://aclanthology.org/2025.acl-long.607.pdf) | ACL | 2025 |
+| **DiaTool-DPO** | [DiaTool-DPO: Multi-Turn DPO for Tool-Augmented LLMs](https://aclanthology.org/2025.sigdial-1.32.pdf) | SIGDIAL | 2025 |
 | **SWEET-RL** | [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | arXiv | 2025 |
 | **LMRL-Gym** | [LMRL Gym: Benchmarks for Multi-Turn RL with Language Models](https://openreview.net/forum?id=EdKSI2ijUY) | ICML | 2025 |
 | **SCoRe** | [Training Language Models to Self-Correct via Reinforcement Learning](https://openreview.net/forum?id=CjwERcAU7w) | ICLR | 2025 |
 | **JOSH** | [Sparse Rewards Can Self-Train Dialogue Agents](https://aclanthology.org/2025.findings-acl.1302/) | ACL-F | 2025 |
-| **ArCHer** | [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://proceedings.mlr.press/v235/zhou24ah.html) | ICML | 2024 |
+| **ArCHer** | [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://openreview.net/forum?id=b6rA0kAHT1&referrer=%5Bthe%20profile%20of%20Jiayi%20Pan%5D(%2Fprofile%3Fid%3D~Jiayi_Pan1)) | ICML | 2024 |
 | **MT-RLHF** | [Multi-Turn Reinforcement Learning with Preference Human Feedback](https://arxiv.org/abs/2405.14655) | NeurIPS | 2024 |
-| **DMPO** | [Direct Multi-Turn Preference Optimization for Language Agents](https://aclanthology.org/2024.emnlp-main.130/) | EMNLP | 2024 |
+| **DMPO** | [Direct Multi-Turn Preference Optimization for Language Agents](https://aclanthology.org/2024.emnlp-main.138/) | EMNLP | 2024 |
 | **InstructGPT** | [Training LMs to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155) | NeurIPS | 2022 |
 
 ### Conversational RAG
@@ -340,12 +340,12 @@ This repository is the companion resource for our survey paper. It lists all pap
 | Method | Paper | Venue | Year |
 |--------|-------|-------|------|
 | **ChatQA-2** | [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG](https://openreview.net/forum?id=cPD2hU35x3) | ICLR | 2025 |
-| **UniConv** | [UniConv: Unifying Retrieval and Response Generation for LLMs in Conversations](https://aclanthology.org/2025.acl-long.396/) | ACL | 2025 |
-| **CORAL** | [CORAL: Benchmarking Multi-Turn Conversational RAG](https://aclanthology.org/2025.findings-naacl.84/) | NAACL-F | 2025 |
+| **UniConv** | [UniConv: Unifying Retrieval and Response Generation for LLMs in Conversations](https://aclanthology.org/2025.acl-long.344.pdf) | ACL | 2025 |
+| **CORAL** | [CORAL: Benchmarking Multi-Turn Conversational RAG](https://aclanthology.org/2025.findings-naacl.72/) | NAACL-F | 2025 |
 | **ChatQA** | [ChatQA: Surpassing GPT-4 on Conversational QA and RAG](https://arxiv.org/abs/2401.10225) | NeurIPS | 2024 |
 | **HAConvDR** | [Generalizing Conversational Dense Retrieval via LLM Cognition Data Augmentation](https://aclanthology.org/2024.acl-long.149/) | ACL | 2024 |
-| **IterCQR** | [IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance](https://aclanthology.org/2024.naacl-long.450/) | NAACL | 2024 |
-| **PK-ICR** | [PK-ICR: Persona-Knowledge Interactive Multi-Context Retrieval](https://aclanthology.org/2023.emnlp-main.1021/) | EMNLP | 2023 |
+| **IterCQR** | [IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance](https://aclanthology.org/2024.naacl-long.449.pdf) | NAACL | 2024 |
+| **PK-ICR** | [PK-ICR: Persona-Knowledge Interactive Multi-Context Retrieval](https://aclanthology.org/anthology-files/anthology-files/pdf/emnlp/2023.emnlp-main.1020.pdf) | EMNLP | 2023 |
 
 ---
 
@@ -356,13 +356,13 @@ See **Table 7** in the paper for a full breakdown. Key frameworks:
 | Framework | What it measures | Paper |
 |-----------|-----------------|-------|
 | **MT-Bench** | Pairwise preference and 1–10 rating | [Zheng et al., 2023](https://arxiv.org/abs/2306.05685) |
-| **APR / ARS** | Average pass rate and rubric score | [MultiChallenge](https://aclanthology.org/2025.findings-acl.1064/) |
+| **APR / ARS** | Average pass rate and rubric score | [MultiChallenge](https://aclanthology.org/2025.findings-acl.958/) |
 | **TurnWise gap** | Single-turn vs multi-turn gap | [Graf et al., 2026](https://arxiv.org/abs/2603.16759) |
-| **MMRC 6-axis** | Extract, reason, update, manage, recall, refuse | [Xue et al., 2025](https://aclanthology.org/2025.acl-long.1232/) |
+| **MMRC 6-axis** | Extract, reason, update, manage, recall, refuse | [Xue et al., 2025](https://aclanthology.org/2025.acl-long.1096/) |
 | **τ-passk** | Repeated-trial task success rate | [τ-Bench](https://openreview.net/forum?id=roNSXZpUDN) |
-| **ToolSandbox scoring** | Stateful trajectory with milestone/minefield scoring | [Lu et al., 2025](https://aclanthology.org/2025.findings-naacl.75/) |
+| **ToolSandbox scoring** | Stateful trajectory with milestone/minefield scoring | [Lu et al., 2025](https://aclanthology.org/2025.findings-naacl.65.pdf) |
 | **FD-Bench (SIR/SRIR/EIR)** | Full-duplex interruption and timing | [Peng et al., 2025](https://arxiv.org/abs/2507.19040) |
-| **CORAL citation labeling** | Retrieval, generation, citation attribution | [Cheng et al., 2025](https://aclanthology.org/2025.findings-naacl.84/) |
+| **CORAL citation labeling** | Retrieval, generation, citation attribution | [Cheng et al., 2025](https://aclanthology.org/2025.findings-naacl.72/) |
 
 ---
 
@@ -370,11 +370,11 @@ See **Table 7** in the paper for a full breakdown. Key frameworks:
 
 | Survey | Paper | Venue | Year |
 |--------|-------|-------|------|
-| Guan et al. | [Evaluating LLM-Based Agents for Multi-Turn Conversations: A Survey](https://dl.acm.org/doi/10.1145/3736921) | ACM TIST | 2026 |
+| Guan et al. | [Evaluating LLM-Based Agents for Multi-Turn Conversations: A Survey](https://arxiv.org/abs/2503.22458) | ACM TIST | 2026 |
 | Yi et al. | [A Survey on Recent Advances in LLM-Based Multi-Turn Dialogue Systems](https://dl.acm.org/doi/10.1145/3771090) | ACM Comput. Surv. | 2025 |
 | Zhang et al. | [A Survey on Multi-Turn Interaction Capabilities of Large Language Models](https://arxiv.org/abs/2501.09959) | arXiv | 2025 |
 | Li et al. | [Beyond Single-Turn: A Survey on Multi-Turn Interactions with LLMs](https://arxiv.org/abs/2504.04717) | arXiv | 2025 |
-| Zhang et al. | [MM-LLMs: Recent Advances in Multimodal Large Language Models](https://aclanthology.org/2024.findings-acl.787/) | ACL-F | 2024 |
+| Zhang et al. | [MM-LLMs: Recent Advances in Multimodal Large Language Models](https://aclanthology.org/2024.findings-acl.738/) | ACL-F | 2024 |
 | Wang et al. | [A Survey of the Evolution of Language Model-Based Dialogue Systems](https://arxiv.org/abs/2311.16789) | arXiv | 2023 |
 
 ---
